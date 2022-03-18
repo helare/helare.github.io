@@ -20,7 +20,8 @@ function addHtml(data) {
     para.style.fontWeight = "700";
     para.style.position = "relative";
     para.style.width = "50%";
-    para.style.fontSize = "400px";
+    para.style.fontSize = "350px";
+    para.style.textAlign = "center";
     para.style.margin = "0 auto";
     para.style.lineHeight = "352px";
     document.getElementById("parent").appendChild(para);
