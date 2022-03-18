@@ -83,7 +83,6 @@
   /* font-size: calc(11.32px + 7.1vmin); */
   /* position: fixed; */
   font-size: 82px;
-
 /*     position:relative; */
 }
 
@@ -95,7 +94,7 @@
   width:100%;
 /*     font-family: 'Arial'; */
 /*     font-weight: "bold"; */
-  margin-top:1%;
+  margin-top:2%;
 }
 #subtitleENG{
   top:12.593%;
@@ -103,7 +102,7 @@
   /* width:51.25%; */
   width:100%;
   height:8.148%;
-  margin-top:4%;
+  margin-top:5%;
 /*     font-family: 'Arial'; */
 /* font-family: 'HelveticaBd'; */
 /*     font-weight: 500; */
