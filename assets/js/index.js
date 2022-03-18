@@ -27,6 +27,7 @@ function addHtml(data) {
     para.style.fontWeight = "bold";
     para.style.position = "relative";
     para.style.top = "5%";
+    para.style.fontSize = "200px;"
     document.getElementById("parent").appendChild(para);
 }
 
