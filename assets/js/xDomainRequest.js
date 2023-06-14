@@ -18,7 +18,7 @@ function addHtml(data) {
     para.innerHTML = getDays(data);
     para.style.fontWeight = "700";
     para.style.position = "relative";
-    para.style.width = "50%";
+    para.style.width = "100%";
     para.style.fontSize = "350px";
     para.style.textAlign = "center";
     para.style.margin = "0 auto";
